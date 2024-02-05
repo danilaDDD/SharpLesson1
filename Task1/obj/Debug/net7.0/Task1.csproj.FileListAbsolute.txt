@@ -1,0 +1,15 @@
+/home/danila/gb/csharp/lesson1/Task1/bin/Debug/net7.0/Task1
+/home/danila/gb/csharp/lesson1/Task1/bin/Debug/net7.0/Task1.deps.json
+/home/danila/gb/csharp/lesson1/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/home/danila/gb/csharp/lesson1/Task1/bin/Debug/net7.0/Task1.dll
+/home/danila/gb/csharp/lesson1/Task1/bin/Debug/net7.0/Task1.pdb
+/home/danila/gb/csharp/lesson1/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/home/danila/gb/csharp/lesson1/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/danila/gb/csharp/lesson1/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/home/danila/gb/csharp/lesson1/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/home/danila/gb/csharp/lesson1/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/home/danila/gb/csharp/lesson1/Task1/obj/Debug/net7.0/Task1.dll
+/home/danila/gb/csharp/lesson1/Task1/obj/Debug/net7.0/refint/Task1.dll
+/home/danila/gb/csharp/lesson1/Task1/obj/Debug/net7.0/Task1.pdb
+/home/danila/gb/csharp/lesson1/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/home/danila/gb/csharp/lesson1/Task1/obj/Debug/net7.0/ref/Task1.dll
